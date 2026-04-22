@@ -1,0 +1,6 @@
+# 在此添加共享仓库（submodule）
+# 示例：
+#
+# [submodule "04-shared/team-wiki"]
+#         path = 04-shared/team-wiki
+#         url = https://github.com/your-org/team-wiki.git

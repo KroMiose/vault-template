@@ -1,0 +1,32 @@
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Obsidian 缓存
+# =========================
+.obsidian/cache/
+.obsidian/workspace.json
+
+# =========================
+# 插件运行时数据（含凭证/历史/会话）
+# =========================
+.obsidian/plugins/remotely-save/data.json
+.obsidian/plugins/terminal/data.json
+.claudian/sessions/
+
+# =========================
+# Git 子模块内部不管
+# =========================
+04-shared/*/.git
+
+# =========================
+# 通用
+# =========================
+*.log
+*.tmp
+*.swp
+.obsidian/plugins/remotely-save/main.js
